@@ -17,7 +17,7 @@ h3 {
 
 /* link text */
 a {
-color: blue;
+color: #E80C7A;
 text-decoration: none;
 }
 
@@ -25,6 +25,6 @@ text-decoration: none;
 /* Centers images */
 
 img {
-  display: block;
+  display: center;
   margin: 0px auto;
 }
