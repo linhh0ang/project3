@@ -17,7 +17,7 @@ h3 {
 
 /* link text */
 a {
-color: #E80C7A;
+color: white;
 text-decoration: none;
 }
 
@@ -27,4 +27,9 @@ text-decoration: none;
 img {
   display: center;
   margin: 0px auto;
+}
+
+html {
+  background-image: url("images/stars.gif");
+  background-repeat: repeat;
 }
