@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+@import url('https://fonts.googleapis.com/css?family=Amaranth:700');
 
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family:'Work Sans', sans-serif;
+  font-family: 'Amaranth', sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;
@@ -11,13 +11,16 @@ body {
 }
 
 /* heading text */
-h3 {
-  padding: 20px 0px 10px 0px;
+h1 {
+  margin-bottom: 10px;
+  margin-top: -10px;
+  font-size: 50pt;
+  color: #FFD21F;
 }
 
 /* link text */
 a {
-color: white;
+color: #FFD21F;
 text-decoration: none;
 }
 
