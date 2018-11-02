@@ -36,3 +36,7 @@ html {
   background-image: url("images/stars.gif");
   background-repeat: repeat;
 }
+
+video {
+  display: center;
+}
