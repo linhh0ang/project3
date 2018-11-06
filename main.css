@@ -40,3 +40,13 @@ html {
 video {
   display: center;
 }
+
+.spacestation {
+  margin-top: -50px;
+  margin-left: 500px;
+}
+
+.solar {
+  margin-top: -70px;
+  margin-left: -200px;
+}
