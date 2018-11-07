@@ -41,6 +41,8 @@ video {
   display: center;
 }
 
+/*div*/
+
 .spacestation {
   margin-top: -50px;
   margin-left: 500px;
@@ -65,6 +67,20 @@ video {
 .ice {
   margin-top: 300px;
   margin-right: 150px;
+}
+
+.cold {
+  margin-top: 280px;
+  margin-left: 50px;
+}
+
+.world {
+  margin-top: 30px;
+  margin-right: 500px;
+}
+
+.comp {
+  margin-top: -100px;
 }
 
 .home {
