@@ -75,8 +75,13 @@ video {
 }
 
 .world {
-  margin-top: 30px;
-  margin-right: 500px;
+  margin-top: 0px;
+  margin-right: 380px;
+}
+
+.shutdown {
+  margin-top: -35px;
+  margin-right: 360px;
 }
 
 .comp {
