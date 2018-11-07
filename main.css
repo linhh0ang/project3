@@ -50,3 +50,12 @@ video {
   margin-top: -70px;
   margin-left: -200px;
 }
+
+.cloudgroup {
+  margin-left: -100px;
+}
+
+.cloud{
+  display: center;
+  margin-top: -500px;
+}
